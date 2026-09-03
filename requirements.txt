@@ -8,7 +8,7 @@ bleach==6.1.0
 cachetools==5.5.0
 cockroachdb
 dateparser==1.2.0
-emoji==2.12.1
+emoji==2.15.0
 emoji-country-flag==2.0.1
 ffmpeg-python
 future==1.0.0
