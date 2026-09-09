@@ -9,7 +9,7 @@ cachetools==5.5.0
 cockroachdb
 dateparser==1.2.0
 emoji==2.12.1
-emoji-country-flag==2.0.1
+emoji-country-flag==2.1.0
 ffmpeg-python
 future==1.0.0
 gpytranslate==1.5.1
